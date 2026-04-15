@@ -1,0 +1,7 @@
+{
+    "FFlagDebugDisableTelemetryV2": "True",
+    "FFlagDebugDisableCrashReporting": "True",
+    "DFIntTaskSchedulerTargetFps": 144,
+    "FFlagGPULightLeak": "False",
+    "FFlagD3D11UseD3D11L": "True"
+}
